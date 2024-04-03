@@ -2,7 +2,7 @@
 
 
 ### Requirements
-1. Office version must be Office360
+1. Office version must be Office365
 2. Macro must be enabled on the user's workstation
 
 
