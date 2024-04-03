@@ -1,0 +1,7 @@
+﻿id,status
+1,On Queue
+2,In-Progress
+3,Awaiting User
+4,Awaiting Third Party
+5,Completed
+6,Closed
